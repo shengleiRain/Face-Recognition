@@ -1,0 +1,14 @@
+opencv-python-headless
+onnxruntime
+scipy
+Pyyaml
+numpy
+pillow
+gradio
+loguru
+tqdm
+gunicorn
+PyPDF2
+pdf2image
+SQLAlchemy
+mysql-connector
