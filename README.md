@@ -9,6 +9,7 @@
 ## 1.1 实现功能
 - [x] 人脸检测API
 - [x] 人脸识别API 
+- [x] 与[face-vue](https://github.com/shengleiRain/face-vue)可以配合使用
 
 
 
@@ -27,7 +28,7 @@ python service_run.py
 python service_gradio.py
 ```
 
-# 2.ImageAnalysisService 开发指南
+# 2 开发指南
 ## 2.1 文件树
 ```
 --| conf 配置文件目录，用于存放可修改的配置文件与项目级别的配置文件
